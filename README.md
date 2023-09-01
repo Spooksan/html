@@ -21,6 +21,10 @@ You can use and modify this code as per the needs of your individual projects. T
 
 The project also ensures that the SEO aspects are taken care of by preloading meta-data for all existing `blog-details/id`'s. Even though 404 pages are used for navigation, the functionality has been designed in a way to minimize the impact on the website's SEO.
 
+
+## server
+The server for this project is built using Node.js and Express.js. You can find the corresponding repository [here](https://github.com/Spooksan/server).
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
